@@ -1,3 +1,3 @@
 # sports-store
-Sports store built with ASP.Net Core.
+Sports store built with ASP.Net Core....
 
